@@ -1,12 +1,14 @@
 # MAIK
 
-prev - [home](README.md) - [next](MAIK1.md)
+[home](README.md) - [next](MAIK1.md)
 
 ## Cover Matter
 
-## Illustrated Learning Method for Kotava
+### Illustrated Learning Method for Kotava
 
-Kotava: Yunkeyena tavesa nuva
+![image-20260131042958173](C:\Users\chris\AppData\Roaming\Typora\typora-user-images\image-20260131042958173.png)
+
+#### Kotava: Yunkeyena tavesa nuva
 
 []
 
@@ -26,9 +28,11 @@ Kotava: Yunkeyena tavesa nuva
 
 [] ... utopia.
 
-> KOTAVA Tela Tamefa Golerava
+#### KOTAVA Tela Tamefa Golerava
 
-[]
+*KOTAVA The Universal Communication Language*
+
+---
 
 This learning method for Kotava in 20 progressive lessons and 16 illustrated teaching materials was conceived in full conformity with the present grammar of the language, the official vocabulary to the extent available and the oral and written practices in majority usage within the Kotava-speaking community.
 

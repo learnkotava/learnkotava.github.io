@@ -16,7 +16,7 @@ In addition to these books, you can find all kinds of cool material to read in K
 
 *Chuff*
 
-v.0.1.0, 01/30/2026
+v.0.1.1, 01/31/2026
 
 ## Table of Contents
 
@@ -66,11 +66,11 @@ v.0.1.0, 01/30/2026
 
 ##### 1. [Lesson 1: Pronunciation](MAIK1.md)
 
-##### 2. Lesson 2: Types of Words
+##### 2. [Lesson 2: Types of Words](MAIK2.md)
 
-##### 3. Lesson 3: Building a Sentence
+##### 3. [Lesson 3: Building a Sentence](MAIK3.md)
 
-##### 4. Lesson 4: Number, Gender, and Euphony
+##### 4. [Lesson 4: Number, Gender and Euphony](MAIK4.md)
 
 ##### 5. Lesson 5: Persons and Conjugation
 

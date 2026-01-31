@@ -4,7 +4,11 @@
 
 ## Lesson 11: Main Affixes
 
+---
+
 -81-
+
+---
 
 ### 11.2. Verbal affixes
 
@@ -25,8 +29,6 @@ Some examples of these types of affixes:
 <sup>1</sup> : If ending in consant or in **-o**, the vowel **-á** is added as a necessary verb ending.
 
 <sup>2</sup> : Must always add an -**á** verbalizer to the noun root.
-
-
 
 ### 11.3. Affixes to Verbs
 
@@ -50,7 +52,11 @@ These are the affixes (all suffixes) for forming other types of words (nouns, de
 
 Those that make nouns number 30 in all, only some of which are among the most common:
 
+---
+
 -82-
+
+---
 
 | Affix     | Type     | Meaning                                  | Usage                                                        |
 | --------- | -------- | ---------------------------------------- | ------------------------------------------------------------ |
@@ -94,17 +100,20 @@ These are the affixes for forming nouns and adverbs of manner from a determiner.
 | **-on**  | *Suffix* | adverb of manner                          | Makes adverbs<br />**- listaf** (beautiful, pretty) ➡️ **liston** (beautifully, prettily)<br />**- savsaf** (ancient, old) ➡️ **savson** (in an ancient way, formerly) |
 | **-uca** | *Suffix* | quality of                                | Makes nouns<br />- **listaf** (beautiful, pretty) ➡️ **listuca** (beauty)<br />- **savsaf** (ancient, old) ➡️ **savsuca** (oldness, seniority) |
 
+---
+
 -83-
+
+---
 
 #### Exercises
 
 ### 11.6. Exercises on Affixes
 
-Below are some short phrases and questions relating to affixes.  Be aware the questions asked can vary.  Pronounce the phrases and words aloud to memorize them.    Get into the habit of referring to the index of Koatava words already studied (or supposed to be acquired by now) at the at end of the book if you have any doubts.
+Below are some short phrases and questions relating to affixes.  Be aware the questions asked can vary.  Pronounce the phrases and words aloud to memorize them.    Get into the habit of referring to the index of Kotava words already studied (or supposed to be acquired by now) at the at end of the book if you have any doubts.
 
 | Kotava Phrase                               | Questions                                                    | Translation | Answer |
 | ------------------------------------------- | ------------------------------------------------------------ | ----------- | ------ |
-| 1. **Zatcase ayikyepe va dolta kolaniyir.** | The subject of the sentence has:<br />A. A total suffix<br />B. A noun suffix<br />C. No suffix | WIP         |        |
+| 1. **Zatcase ayikyepe va dolta kolaniyir.** | The subject of the sentence has:<br />A. A total suffix<br />B. A noun suffix<br />C. No suffix | WIP         | A & B. |
 |                                             |                                                              |             |        |
 |                                             |                                                              |             |        |
-
