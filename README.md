@@ -1,5 +1,9 @@
 # Learn Kotava
 
+
+
+
+
 *Chuff*
 
 v.0.1.0, 01/30/2026
