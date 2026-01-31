@@ -18,11 +18,11 @@
 
 - [ ] Orthography: [suteraf bolk]
 
-- [ ] Chap. I: Graphical peculiarities [suteraptaceem]
+- [x] Chap. I: Graphical peculiarities [suteraptaceem]
 
 - [ ] Chap. II: Transcriptions of proper nouns [remsutera va pilkayolt]
 
-- [ ] Chap. III: Use of capital letters [unera va eltayap]
+- [x] Chap. III: Use of capital letters [unera va eltayap]
 
 - [ ] Chap. IV: Use of punctuation marks [unera va tcala]
 
@@ -36,29 +36,56 @@
 
 - [x] :b Euphonic agreement [mamanyara]
 
-- [ ] : c Expression of plural [tukontara]
+- [x] : c Expression of plural [tukontara]
 
 - [ ] : d Proper nouns and classifiers [pilkayolt is pulaxa]
 
 - [ ] 🚧 Chap. III: Verbs [gray]
-  a : Verbal stem [grayzaeya]
-  b: Speech acts [grayeweem]
-  c: Moods [graycaveeem]
-  d: Tenses [graysareeem]
-  e: Polarity [graysokeem]
-  f: Aspects [graykerdeleem]
-  g: Modalities [graycaveindeem]
-  h: Voices [graywoyokeem]
-  i: Persons [grayilkomeem]
-  j: Pragmatics [graysodjeyeem]
-  k: Relative-participial mood [trendacave]
-  l: Synthesis on the verb
-  m: Transitive, ditransitive and intransitive verbs [tanmukodaf grayeem isu tolmukodaf isu 
+
+- [ ] a : Verbal stem [grayzaeya]
+
+- [ ] b: Speech acts [grayeweem]
+
+- [ ] c: Moods [graycaveeem]
+
+- [x] d: Tenses [graysareeem]
+
+- [ ] e: Polarity [graysokeem]
+  
+  - [ ] assertive
+  
+  - [ ] affirmative
+  
+  - [x] negative
+  
+  - [x] contraritive
+  
+  - [ ] uncertain
+
+- [ ] f: Aspects [graykerdeleem]
+
+- [ ] g: Modalities [graycaveindeem]
+
+- [ ] h: Voices [graywoyokeem]
+
+- [ ] i: Persons [grayilkomeem]
+
+- [ ] j: Pragmatics [graysodjeyeem]
+
+- [ ] k: Relative-participial mood [trendacave]
+
+- [ ] l: Synthesis on the verb
+
+- [ ] m: Transitive, ditransitive and intransitive verbs [tanmukodaf grayeem isu tolmukodaf isu 
   mukodiskaf]
-  n: Impersonal verbs [ilkomiskaf grayeem]
-  o: Stative verbs [sokaf grayeem]
-  p: Sensation verbs [pestaleraf grayeem]
-  q: Motion verbs [liziweraf grayeem]
+
+- [ ] n: Impersonal verbs [ilkomiskaf grayeem]
+
+- [ ] o: Stative verbs [sokaf grayeem]
+
+- [ ] p: Sensation verbs [pestaleraf grayeem]
+
+- [ ] q: Motion verbs [liziweraf grayeem]
 
 - [ ] Chap. IV: Determinatives [gotuxa]
    A : Adjectives [soreleem]

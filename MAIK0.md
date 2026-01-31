@@ -1,6 +1,6 @@
 # MAIK
 
-prev - [home](MAIK.md) - next
+prev - [home](README.md) - [next](MAIK1.md)
 
 ## Cover Matter
 
@@ -10,27 +10,27 @@ Kotava: Yunkeyena tavesa nuva
 
 []
 
-"Storka ke Kotava va ayikeem remi koyara moo tawava koafir.  Inafa afta mea tir uma mu cugtan krabes drumo ora is dure nyedan gan orika."
+> "Storka ke Kotava va ayikeem remi koyara moo tawava koafir.  Inafa afta mea tir uma mu cugtan krabes drumo ora is dure nyedan gan orika."
 
 []
 
-"Lana yozdanya nyapesa fiste ve dutur."
+> "Lana yozdanya nyapesa fiste ve dutur."
 
 []
 
-"Va mana yozda ke afi pu sin fu lasuvanburet, va lan tamef enid..."
+> "Va mana yozda ke afi pu sin fu lasuvanburet, va lan tamef enid..."
 
 []
 
-"...va lana rietunaca."
+> "...va lana rietunaca."
 
 [] ... utopia.
 
-KOTAVA Tela Tamefa Golerava
+> KOTAVA Tela Tamefa Golerava
 
 []
 
-This learning method for Kotava in 20 progresssive lessons and 16 illustrated teaching materials was conceived in full conformity with the present grammar of the language, the official vocabulary to the extent available and the oral and written practices in majority usage within the Kotava-speaking community.
+This learning method for Kotava in 20 progressive lessons and 16 illustrated teaching materials was conceived in full conformity with the present grammar of the language, the official vocabulary to the extent available and the oral and written practices in majority usage within the Kotava-speaking community.
 
 Its production is the work of a small group of fans and speakers recognized for their competence, as well as contributions and revisions of several qualified people.
 

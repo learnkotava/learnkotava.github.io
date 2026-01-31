@@ -1,12 +1,12 @@
 # MAIK
 
-prev - [home](MAIK.md) - next
+[prev](MAIK0.md) - [home](README.md) - next
 
 ## Lesson 1: Pronunciation
 
 -4-
 
-**Rules**
+#### Rules
 
 ### 1.1. Elements of pronunciation
 
@@ -48,7 +48,7 @@ Kotava has 5 vowels: *a, e, i, o, u*.  All vowels must be pronounced separately 
 
 -5-
 
-**Exercise**
+#### **Exercises**
 
 ### 1.2. Pronunciation Exercises
 
@@ -119,7 +119,7 @@ Practice reading them one by one and pronouncing them on your own.
 
 -7-
 
-**Answers**
+#### **Answers**
 
 ### 1.4. Answers to Exercises
 
