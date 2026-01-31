@@ -1,5 +1,7 @@
 # Kotava
 
+home - next
+
 ## 0. Introduction
 
 ### What is Kotava?
@@ -20,4 +22,4 @@ Language nerds who like conlangs are often interested in languages in a very ser
 
 A lot of the first material about Kotava comes from people who speak French, so it's written in French.  That includes [the main Kotava website](https://kotava.org/index.php).  Some [early YouTube videos in Kotava]([Luce kotavusik - YouTube](https://www.youtube.com/@lucekotavusik7484)) that became popular years ago were made by a French speaker, Luce.  
 
-If you don't speak French, don't worry!  Now, thanks to the dedicated *kotavusik* (Kotava users, or 'Kotavists'), you can still learn the basics of Kotava and start using it in no time.  That's what this book is for!
+If you don't speak French, don't worry!  Now, thanks to the dedicated $kotavusik$ (Kotava users, or 'Kotavists'), you can still learn the basics of Kotava and start using it in no time.  That's what this book is for!
