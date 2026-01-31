@@ -2,6 +2,8 @@
 
 [prev](MAIK10.md) - [home](README.md) - [next](MAIK12.md)
 
+## 🚧
+
 ## Lesson 11: Main Affixes
 
 ---
@@ -26,9 +28,9 @@ Some examples of these types of affixes:
 | **tu...-á**<sup>2</sup>     | *Suffix* | idea of making something a certain way, putting it in a certain state | Added to a noun, to make a transitive verb<br/>- **winugaf** (official) ➡️ **tuwinugá** (to make sth official)<br/>- **listaf** (beautiful, nice) ➡️ **tulistá** (to beautify, embellish) |
 | **gri-...-á****<sup>2</sup> | *Suffix* | idea of ending a state, taking something out of a state      | Added to a noun, to make a transitive verb<br/>- **tuwavaf** (natural) ➡️ **grituwavá** (denaturalize) |
 
-<sup>1</sup> : If ending in consant or in **-o**, the vowel **-á** is added as a necessary verb ending.
-
-<sup>2</sup> : Must always add an -**á** verbalizer to the noun root.
+> <sup>1</sup> : If ending in consant or in **-o**, the vowel **-á** is added as a necessary verb ending.
+>
+> <sup>2</sup> : Must always add an -**á** verbalizer to the noun root.
 
 ### 11.3. Affixes to Verbs
 
@@ -86,7 +88,7 @@ As for noun suffixes that make determiners, here are the 4 most common (out of a
 | **-kiraf**              | *Suffix* | containing, carrying                           | **- eip** (sel) ➡️ **eipkiraf** (salty)                       |
 | **-koraf**              | *Suffix* | having the form of, resembling                 | - **gamda** (cross) ➡️ **gamdakoraf** (cruciform, cross-shaped) |
 
-<sup>3</sup> *The form of the suffix **-f** is used when the noun ends in a vowel (other than -**a**).*
+> <sup>3</sup> *The form of the suffix **-f** is used when the noun ends in a vowel (other than -**a**).*
 
 ### 11.5. Affixes to Determiners
 
@@ -112,8 +114,33 @@ These are the affixes for forming nouns and adverbs of manner from a determiner.
 
 Below are some short phrases and questions relating to affixes.  Be aware the questions asked can vary.  Pronounce the phrases and words aloud to memorize them.    Get into the habit of referring to the index of Kotava words already studied (or supposed to be acquired by now) at the at end of the book if you have any doubts.
 
-| Kotava Phrase                               | Questions                                                    | Translation | Answer |
-| ------------------------------------------- | ------------------------------------------------------------ | ----------- | ------ |
-| 1. **Zatcase ayikyepe va dolta kolaniyir.** | The subject of the sentence has:<br />A. A total suffix<br />B. A noun suffix<br />C. No suffix | WIP         | A & B. |
-|                                             |                                                              |             |        |
-|                                             |                                                              |             |        |
+| Kotava Phrase                               | Questions                                                    | Translation                                                  | Answer |
+| ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| 1. **Zatcase ayikyepe va dolta kolaniyir.** | The subject of the sentence has:<br />A. A whole suffix<br />B. A noun suffix<br />C. No suffix | The big, gesticulating man walked into the store.<br />[gesticulate-*ing*] [person-male-big] [*object >*] [store] [he-entered-on-foot] | A & B. |
+| 2. **In va mekaliaf okol anton dadir.**     | The adjective (after 'va') has:<br />A. A whole prefix<br />B. A whole suffix<br />C. Neither | He only has one slow horse.<br />[he/she] [*object >*] [adj] [*not*-fast] [horse] [only] [he-possesses]. | A.     |
+| 3. **Zveri va begama kan gamot vegedur.**   | The object of the sentence has:<br />A. A whole suffix<br />A. A noun suffix<br />C. No suffix | The bird builds a nest with twigs.<br />[bird] [*object >*] [nest] [by-means-of] [twig] [it-builds] | C.     |
+| 4.                                          |                                                              |                                                              |        |
+| 5.                                          |                                                              |                                                              |        |
+| 6.                                          |                                                              |                                                              |        |
+| 7.                                          |                                                              |                                                              |        |
+| 8.                                          |                                                              |                                                              |        |
+| 9.                                          |                                                              |                                                              |        |
+| 10.                                         |                                                              |                                                              |        |
+| 11.                                         |                                                              |                                                              |        |
+| 12.                                         |                                                              |                                                              |        |
+| 13.                                         |                                                              |                                                              |        |
+| 14.                                         |                                                              |                                                              |        |
+| 15.                                         |                                                              |                                                              |        |
+
+> ***Remarque***: *In Kotava proper nouns are spelled according to their origin language spelling (if in the Latin alphabet): Louis Riel, Winnipeg, Manitoba, Gaspésie, Firenze, London, Barcelona, etc.
+
+---
+
+-85-
+
+---
+
+#### Vocabulary
+
+### 11.7. Vocabulary Used
+

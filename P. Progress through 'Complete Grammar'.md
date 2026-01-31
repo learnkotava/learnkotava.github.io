@@ -1,6 +1,8 @@
 # P. Progress through 'Complete Grammar'
 
-🚧 as I build my LK book
+## 🚧 
+
+*as I build my LK book*
 
 - [ ] 🚧 Preamble: [abdiwonaks]
 
@@ -132,7 +134,7 @@
    D : Absolute assertion [belikafa ruyera]
    E : Element focus [ravlemafa tuanulara]
 
-- [ ] Chap. XII: Compounding [ponara]
+- [x] Chap. XII: Compounding [ponara]
    A : Basic compounding [opelafa ponara]
    B : Merger compounds [jesa ponara]
    C : Adverbial compounding [tumugeasa ponara]

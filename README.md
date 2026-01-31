@@ -18,6 +18,8 @@ In addition to these books, you can find all kinds of cool material to read in K
 
 v.0.1.1, 01/31/2026
 
+---
+
 ## Table of Contents
 
 ###### 0. [Introduction](Introduction.md)
@@ -46,7 +48,9 @@ v.0.1.1, 01/31/2026
 
 ###### x. [Exclamations](Exclamations.md)
 
-###### x. [...]
+##### x. [...]
+
+###### x. [Compound Words](CompoundWords.md)
 
 ###### x. [...]
 
@@ -61,6 +65,8 @@ v.0.1.1, 01/31/2026
 # Method of Learning Kotava (MAIK)
 
 *translation of [Méthode d'apprentissage illustrée du Kotava (PDF)](https://www.kotava.org/fr/M%C3%A9thode_illustr%C3%A9e_Kotava_v2025.pdf) (2025)*
+
+---
 
 ##### 0. [Cover Matter](MAIK0.md)
 

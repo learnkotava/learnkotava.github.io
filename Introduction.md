@@ -1,6 +1,6 @@
 # Kotava
 
-home - next
+[home](README.md) - next
 
 ## 0. Introduction
 
