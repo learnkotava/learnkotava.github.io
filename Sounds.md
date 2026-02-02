@@ -1,5 +1,9 @@
 # Learn Kotava
 
+prev - [home](README.md) - next
+
+---
+
 ## 1. Sounds
 
 Kotava is easy for English speakers to pronounce!
@@ -135,30 +139,26 @@ But in Kotava there are 3 simple rules for word stress, based on the last letter
 
 How would you pronounce **kiava**?
 
-> **kiava**
-> 
-> kee-AH-vah
-> 
-> *hello*
+​	**kiava**
 
-- This means 'hello'!
+​	*kee-AH-vah*
+
+​	hello
 
 How would you pronounce **tokcoba**?
 
-> **tokcoba**
-> 
-> tok-SHO-bah
-> 
-> *what?*
+​	**tokcoba**
 
-- This means 'what'.
+​	*tok-SHO-bah*
+
+​	what?
 
 How would you pronounce **jadion**?
 
-> **jadion**
-> 
-> zhah-dee-OHN
-> 
-> *generally*
+​	**jadion**
+
+​	*zhah-dee-OHN*
+
+​	generally
 
 Now you can pronounce any Kotava word!

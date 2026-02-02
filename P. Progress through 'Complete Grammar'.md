@@ -2,7 +2,7 @@
 
 ## 🚧 
 
-*as I build my LK book*
+*building the LK book*
 
 - [ ] 🚧 Preamble: [abdiwonaks]
 
@@ -47,21 +47,28 @@
 - [ ] a : Verbal stem [grayzaeya]
 
 - [ ] b: Speech acts [grayeweem]
+   - [ ] decl
+
+   - [x] exclam
+
+   - [ ] interrog
+
+   - [x] injunct / imper
 
 - [ ] c: Moods [graycaveeem]
 
 - [x] d: Tenses [graysareeem]
 
 - [ ] e: Polarity [graysokeem]
-  
-  - [ ] assertive
-  
-  - [ ] affirmative
-  
+
+  - [x] assertive
+
+  - [x] affirmative
+
   - [x] negative
-  
+
   - [x] contraritive
-  
+
   - [ ] uncertain
 
 - [ ] f: Aspects [graykerdeleem]
@@ -73,6 +80,21 @@
 - [ ] i: Persons [grayilkomeem]
 
 - [ ] j: Pragmatics [graysodjeyeem]
+   - [ ] irrealis
+
+   - [ ] epistemicals
+
+   - [ ] evidentials
+
+   - [ ] reality considerers
+
+   - [ ] external deontics
+
+   - [ ] uncertain
+
+   - [x] injunction grades
+
+   - [ ] interrog specifiers
 
 - [ ] k: Relative-participial mood [trendacave]
 
@@ -106,13 +128,13 @@
 - [ ] Chap. VII: Interjections [divieks]
 
 - [ ] Chap. VIII: Prepositions [yaz]
-   A : Miscellaneous prepositions (neither locative nor temporal) [mexof is meugalaf yazeem]
-   B : Temporal prepositions [ugalaf yazeem]
-   C : Locative prepositions [xof yazeem]
+  A : Miscellaneous prepositions (neither locative nor temporal) [mexof is meugalaf yazeem]
+  B : Temporal prepositions [ugalaf yazeem]
+  C : Locative prepositions [xof yazeem]
   D : Adverbial prepositivisation (prepositional locutions) [mugeyazeem]
 
 - [ ] Chap. IX: Conjunctions [skedaxa]
-   A : Primary subordinating conjunctions [taneodaf dirgas skedaxeem]
+  A : Primary subordinating conjunctions [taneodaf dirgas skedaxeem]
   B : Compound subordinating conjunctions [ponan dirgas skedaxeem]
   C : Special coordinative conjunctions [aptaf dobenplekus skedaxeem]
   D : Conjunct adverbs [mugef skedaxeem]
@@ -120,11 +142,11 @@
    F : Coordinative conjunctions [kagluyas skedaxeem]
 
 - [ ] Chap. X: Affixes [osta]
-   A : General affixes [jadif osteem]
-   B : Verbalising affixes [tugrayas osteem]
-   C : Verbal affixes [grayosteem]
-   D : Substantive affixes [yoltosteem]
-   E : Determinative affixes [gotuxosteem]
+  A : General affixes [jadif osteem]
+  B : Verbalising affixes [tugrayas osteem]
+  C : Verbal affixes [grayosteem]
+  D : Substantive affixes [yoltosteem]
+  E : Determinative affixes [gotuxosteem]
   F : Unproductive nominal suffixes [riwef yoltradimosteem]
 
 - [ ] Chap. XI: Assertive demonstrativeness [ruyesa danedira]
@@ -135,9 +157,9 @@
    E : Element focus [ravlemafa tuanulara]
 
 - [x] Chap. XII: Compounding [ponara]
-   A : Basic compounding [opelafa ponara]
-   B : Merger compounds [jesa ponara]
-   C : Adverbial compounding [tumugeasa ponara]
+  A : Basic compounding [opelafa ponara]
+  B : Merger compounds [jesa ponara]
+  C : Adverbial compounding [tumugeasa ponara]
   SF/PAG / Kotava Grammar Complete English Version IV-03. April 2018 3/68
 
 - [ ] Chap. XIII: Word order [ravlemvura]

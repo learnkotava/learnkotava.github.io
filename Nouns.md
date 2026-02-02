@@ -2,6 +2,8 @@
 
 prev - [home](readme.md) - next
 
+---
+
 ## x. Nouns
 
 ### x.x. No gender
@@ -35,8 +37,14 @@ Basically, if the noun you're talking about ends in a vowel, you will *add that 
 
 Examples:
 
-| Modifying word +         | Noun =                               | Kotava                                        | Note                                                             |
-| ------------------------ | ------------------------------------ | --------------------------------------------- | ---------------------------------------------------------------- |
-| **listaf**<br/>beautiful | **patectoy**<br/>landscape           | **listaf patectoy**<br/>a beautiful landscape | Nothing added to **listaf**, because **patectoy** ends in **-y** |
-| **baroy**<br/>3          | **blucte**<br/><br/>item of clothing | **baroye blucte**<br/>3 pieces of clothing    | **blucte** ends in **-e**, so **baroy** adds an **-e**           |
-| **bat**<br/>this         | **zveri**<br/>bird                   | **bati zveri**<br/>this bird                  | **zveri** ends in **-i**, so **bat** adds an **-e*               |
+​	**listaf** (*beautiful*) + **patectoy** (*landscape*) ➡️ **listaf patectoy** (*a beautiful landscape*)
+
+​		Nothing is added to **listaf**, because **patectoy** ends in **-y**.
+
+​	**baroy** (*3*) + **blucte** (*item of clothing*) ➡️ **baroy<u>e</u> blucte** (*3 items of clothing*)
+
+​		Since **blucte** ends in **-e**, **baroy** adds an **-e**.
+
+​	**bat** (*this*) + **zveri** (*bird*) ➡️ **bat<u>i</u> zveri** (*this bird*)
+
+​		Since **zveri** ends in **-i**, **bat** adds an **-e**.

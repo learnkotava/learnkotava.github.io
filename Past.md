@@ -2,6 +2,8 @@
 
 prev - [home](README.md) - next
 
+---
+
 ## x. Past: -y-
 
 Kotava forms the past by inserting a simple suffix before the personal ending (**2.2**) of the verb: the letter **y-**, plus the vowel right before the **y**.  

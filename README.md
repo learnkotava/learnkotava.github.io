@@ -10,6 +10,8 @@ Kotava is a language that has been developed on purpose, for anyone to be able t
 
 In addition to these books, you can find all kinds of cool material to read in Kotava -- magazines, comic books, poetry... it even has its own [Wikipedia](http://avk.wikipedia.org).
 
+*Abbreviations used in this book include: os (oneself), sb (somebody), sth (something).*
+
 ---
 
 # Learn Kotava
@@ -22,43 +24,63 @@ v.0.1.1, 01/31/2026
 
 ## Table of Contents
 
-###### 0. [Introduction](Introduction.md)
+##### 0. [Introduction](Introduction.md)
 
-###### 1. [Sounds](Sounds.md)
+##### 1. [Sounds](Sounds.md)
 
-###### 2. [Verbs](Verbs.md)
+##### 2. [Verbs](Verbs.md)
 
-###### 3. [Present](Present.md)
+##### 3. [Present](Present.md)
 
-###### 4. [Nouns](Nouns.md)
+##### 4. [Nouns](Nouns.md)
 
-###### x. [Plurals](Plurals.md)
+##### x. [Plurals](Plurals.md)
 
-###### x. [Proper Nouns](ProperNouns.md)
+##### x. [Past](Past.md)
 
-###### x. [Classifiers](Classifiers.md)
+##### x. [Future](Future.md)
 
-###### x. [Past](Past.md)
+##### x. [Motion](Motion.md)
 
-###### x. [Future](Future.md)
+##### x. [Negative](Negative.md)
 
-###### x. [Negative](Negative.md)
+##### x. [Objects](Objects.md)
 
-###### x. [Questions](Questions.md)
+##### x. [Questions](Questions.md)
 
-###### x. [Exclamations](Exclamations.md)
+##### x. [Exclamations](Exclamations.md)
+
+##### x. [Affirmation](Affirmation.md)
+
+##### x. [Commands](Commands.md)
+
+##### x. [Proper Nouns](ProperNouns.md)
+
+##### x. [Pronouns](Pronouns.md) 
+
+##### x. [Prepositions](Prepositions.md) 🚧
 
 ##### x. [...]
 
-###### x. [Compound Words](CompoundWords.md)
+##### x. [...]
 
-###### x. [...]
+##### x. [...]
 
-###### x. [...]
+##### x. [Relative Pronouns](RelativePronouns.md) 🚧
 
-###### x. [...]
+##### x. [...]
 
-###### x. [...]
+##### x. [...]
+
+##### x. [Compound Words](CompoundWords.md)
+
+##### x. [...]
+
+##### x. [...]
+
+##### x. [...]
+
+##### x. [...]
 
 ---
 
@@ -90,7 +112,7 @@ v.0.1.1, 01/31/2026
 
 ##### 10: Lesson 10: Verbal States
 
-##### 11: [Lesson 11: Main Affixes](MAIK11.md)
+##### 11: [Lesson 11: Main Affixes](MAIK11.md) 🚧
 
 ##### 12: Lesson 12: Locative Prepositions and Verbs of Motion
 

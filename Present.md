@@ -2,11 +2,13 @@
 
 prev - [home](README.md) - next
 
+---
+
 ## 3. Present Tense
 
 The simple present tense -- "I go," "we eat," "she reads" -- you have already seen in the last chapter.
 
-You just add the person endings (**2.2**) to the dictionary form (or verb stem).
+You just add the person endings (**[2.2](Verbs.md)**) to the dictionary form (or verb stem (**[2.1](Verbs.md)**)).
 
 Let's use a new verb, **dolé** 'to sell':
 
@@ -22,22 +24,23 @@ Let's use a new verb, **dolé** 'to sell':
 
 ### 3.1 More Verbs
 
-> **vefa** - to play
-> 
-> **stufe** - to dance
-> 
-> **estú** - to eat
+​	**vefa** (*to play*)
 
-Now try making simple sentences with these, like 'They dance' or 'She eats'!:
+​	**stufe** (*to dance*)
+
+​	**estú** (*to eat*)
+
+Now try making simple sentences with what you know:
 
 | English     | Kotava |
 | ----------- | ------ |
 | They dance. |        |
 | She eats.   |        |
 
-Answers:
+Answers: 
 
-| English     | Kotava                                                         |
-| ----------- | -------------------------------------------------------------- |
-| They dance. | **Stufed.**                                                    |
-| She eats.   | **Estur.**<br/>(by itself, this also means he eats or it eats) |
+​	**Stufed.** (*They dance.*) 
+
+​	**Estur.** (*She eats.*)
+
+As you'll see [later](Pronouns.md), **estur** by itself can mean *he eats, she eats*, or *it eats*.

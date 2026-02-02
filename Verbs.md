@@ -1,6 +1,8 @@
 # Learn Kotava
 
-prev - home - next
+prev - [home](README.md) - next
+
+---
 
 ## 2. Verbs
 
@@ -8,19 +10,27 @@ Verbs are a big part of Kotava, and you can do a lot with them!
 
 We'll go one step at a time.
 
-([What's a verb?](https://en.wikipedia.org/wiki/Verb))
-
 ### 2.1. Stem
 
-In a Kotava dictionary, you will find verbs in their base form, the 'stem'.
+In a Kotava dictionary, you will find verbs in their present tense form for "I do":
 
-> **danká** - to sing (base form)
+> **danká** - I sing
 > 
-> **estú** - eat (base form)
+> **estú** - I eat
 
-This is the base form you'll be building on (dropping the accent mark).  
+This is the stem, or base form, you'll be building on (dropping the accent mark):
 
-* As you'll see later, the dictionary form is also the same form as "I do" or "I go."
+>  **DANKA** (to sing (stem))
+>
+> **VEFA** (to play (stem))
+>
+> **STUTE** (to dance (stem))
+>
+> **ASKI** (to do (stem))
+>
+> **PLEKU** (to put (stem))
+>
+> **ESTU** (to eat (stem))
 
 ### 2.2. Person endings: -, -l, -r, -t, -v, -c, -d
 
