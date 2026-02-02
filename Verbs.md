@@ -1,16 +1,10 @@
-# Learn Kotava
-
-prev - [home](README.md) - next
-
----
-
-## 2. Verbs
+## Verbs
 
 Verbs are a big part of Kotava, and you can do a lot with them!
 
 We'll go one step at a time.
 
-### 2.1. Stem
+### Stem
 
 In a Kotava dictionary, you will find verbs in their present tense form for "I do":
 
@@ -32,7 +26,7 @@ Without the accent mark, this is the stem, or base form, you'll be building on:
 >
 > **ESTU** (to eat (stem))
 
-### 2.2. Person endings: -, -l, -r, -t, -v, -c, -d
+### Person endings: -, -l, -r, -t, -v, -c, -d
 
 Unlike some languages with complex endings on verbs to show 'who' is doing the action, Kotava only uses a single letter to each person for you to remember:
 
@@ -50,7 +44,7 @@ In English, *we* and *us* are not always clear (do you mean, me too?).  In Kotav
 
 You might have noticed the stress is always on the last syllable, following the stress rules (**1.13**).  That's the reason for the accent mark (**1.12**)!
 
-### 2.3 tí
+### tí
 
 A special and very common verb is **tí**, (stem: **TI**) which means 'to be'. Unlike other languages, in Kotava it follows the regular rules:
 
@@ -64,7 +58,7 @@ A special and very common verb is **tí**, (stem: **TI**) which means 'to be'. U
 | **tic** | you (plural) are      |
 | **tid** | they are              |
 
-### 2.4 Verb placement
+### Verb placement
 
 As you'll see, in Kotava, verbs almost always go at the *end* of the sentence.
 

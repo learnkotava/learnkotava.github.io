@@ -1,44 +1,44 @@
-# Learn Kotava
+**Learn Kotava**
 
 prev - [home](README.md) - next
 
 ---
 
-## 1. Sounds
+# Sounds
 
 Kotava is easy for English speakers to pronounce!
 
-### 1.1. Alphabet
+## Alphabet
 
 The alphabet is the same as English, only without **h** and **q**:
 
         **a, b, c, d, e, f, g, i, j, k, l, m, n, o, p, r, s, t, u, v, w, x, y, z**
 
-### 1.2. **c**
+### **c**
 
 The Kotava letter **c** sounds like 'sh' as in '**sh**oe'.
 
 Click for an audio sample: [c](https://en.wikipedia.org/wiki/Voiceless_postalveolar_fricative).
 
-### 1.3. **j**
+### **j**
 
 The Kotava letter **j** is pronounced like the 's' in 'trea**s**ure', the 'z' in 'a**z**ure', or the 'j' in 'Ta**j** Mahal'.
 
 Click for an audio sample: [j](https://en.wikipedia.org/wiki/Voiced_postalveolar_fricative).
 
-### 1.4. **r**
+### **r**
 
 The Kotava letter **r** is normally rolled or trilled, like in Italian or Spanish, but if that's hard for you, the *r* sound you're familiar with will do just fine. (Some of the French speakers can sound more like a French *r*).
 
 Click for an audio sample: [r](https://en.wikipedia.org/wiki/Voiced_dental_and_alveolar_trills#Voiced_alveolar_trill).
 
-### 1.5. **x**
+### **x**
 
 Maybe the only unfamiliar sound is **x**, which is like a *j* in Spanish *<u>J</u>ose*, sometimes spelled like 'kh'. Or the German name *Ba<u>ch</u>* or a Scottish lo<u>ch</u>.
 
 Click for an audio sample: [x](https://en.wikipedia.org/wiki/Voiceless_velar_fricative).
 
-### 1.6. Vowels
+### Vowels
 
 **a, e, i, o** and **u** are the vowels, and they sound the way they do in Spanish or Italian.
 
@@ -54,7 +54,15 @@ If you want to be precise, click the Wikipedia link and play the audio sample to
 
 If you mix a vowel with **y**, it keeps its normal sound and just adds an 'ee' sound, e.g. **ay** sounds like *g<u>uy</u>* (not *d<u>ay</u>*).
 
-### 1.7. Consonants
+#### Vowels with accent (**´**)
+
+As you'll learn later, sometimes a Kotava word ends in a vowel with an accent mark on it, like **estú**. All this accent mark means is that you stress that vowel. (**1.13**).
+
+But you can expect to see **á**, **é**, **í**, and **ú**. (Not *ó*)
+
+(It isn't required to write the accent mark, if typing accents is hard for you.)
+
+#### Consonants
 
 Some consonants we normally say with air added in, like *p* or *t*, are pronounced without that air in Kotava:
 
@@ -64,11 +72,11 @@ Some consonants we normally say with air added in, like *p* or *t*, are pronounc
 | **p**     | [p](https://en.wikipedia.org/wiki/Voiceless_bilabial_plosive)                                           |
 | **t**     | [t](https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_plosives) <br/>(*the top audio sample*) |
 
-## 1.8. w
+### w
 
 In Kotava, `w` sounds just like English *w*. It never goes at the end of a word (unless it's a proper name).
 
-## 1.9. y and -ny
+### y and -ny
 
 In Kotava, **y** never takes the place of a vowel like in English *cr<u>y</u>stal* or *m<u>y</u>riad*.
 
@@ -80,7 +88,11 @@ The combination **-ny** is pronounced close to *o<u>ni</u>on* or Spanish *a<u>ñ
 | ------ | ------------------------------------------------- |
 | **ny** | [ny](https://en.wikipedia.org/wiki/Palatal_nasal) |
 
-### 1.10. Letter names
+### **h** (defunct)
+
+*(You might see **h** in old Kotava texts from before 2011, because it used to exist before then. Don't worry about it -- it doesn't exist anymore.)*
+
+## Letter names
 
 Just like we have *ay, bee, see,* Kotava letters have names you use when, e.g., spelling out loud. Simple enough, the vowels are just the vowel itself, and everything else is the letter + **-e**:
 
@@ -111,19 +123,9 @@ Just like we have *ay, bee, see,* Kotava letters have names you use when, e.g., 
 | y      | **ye** |
 | z      | **ze** |
 
-### 1.11. **h** (defunct)
 
-*(You might see **h** in old Kotava texts from before 2011, because it used to exist before then. Don't worry about it -- it doesn't exist anymore.)*
 
-### 1.12. Vowels with accent (**´**)
-
-As you'll learn later, sometimes a Kotava word ends in a vowel with an accent mark on it, like **estú**. All this accent mark means is that you stress that vowel. (**1.13**).
-
-But you can expect to see **á**, **é**, **í**, and **ú**. (Not *ó*)
-
-(It isn't required to write the accent mark, if typing accents is hard for you.)
-
-### 1.13. Stress
+## Stress
 
 Where you stress a word can make it mean different things in English (c<u>o</u>ntract = a thing vs. contr<u>a</u>ct = an action), and sometimes it's hard to know where in other languages.
 
@@ -135,7 +137,7 @@ But in Kotava there are 3 simple rules for word stress, based on the last letter
 | -Consonant, **-w**, or **-y** | Last syllable         | **tuvel** <br/>(*too-VEHL*)<br/><br/>**felay**<br/> (*feh-LIE*)<br/><br/>**sayakik** <br/>(*sah-yah-KEEK*)       |
 | -Accented vowel (**1.12**)    | Accented vowel        | **estú** <br/> (eh-STOO) <br/> <br/>**lusteyé **<br/>(loo-steh-YEH)                                              |
 
-### 1.14. Practice
+## Practice
 
 How would you pronounce **kiava**?
 
@@ -162,3 +164,6 @@ How would you pronounce **jadion**?
 ​	generally
 
 Now you can pronounce any Kotava word!
+
+---
+

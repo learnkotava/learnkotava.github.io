@@ -1,8 +1,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_Kotava.svg/250px-Flag_of_Kotava.svg.png" title="" alt="Kotava - Wikipedia" data-align="center">
 
-These are free wikibooks to introduce you to [Kotava](https://en.wikipedia.org/wiki/Kotava). 
+These are free wikibooks to help you learn [Kotava](https://en.wikipedia.org/wiki/Kotava). 
 
-Kotava is a language that has been developed on purpose, for anyone to be able to learn it.  You can start here:
+## What is Kotava?
+
+**Kotava** is a language that has been developed on purpose, for anyone to be able to learn it.  You can start here:
+
+## Books
 
 1. **Learn Kotava** - an introduction to the basics of the language, in active development.
 
@@ -10,85 +14,57 @@ Kotava is a language that has been developed on purpose, for anyone to be able t
 
 In addition to these books, you can find all kinds of cool material to read in Kotava -- magazines, comic books, poetry... it even has its own [Wikipedia](http://avk.wikipedia.org).
 
-*Abbreviations used in this book include: os (oneself), sb (somebody), sth (something).*
+>  Abbreviations used in this book may include: intr (intransitive), obj (object), os (oneself), sb (somebody), sth (something), tr (transitive)
 
 ---
 
 # Learn Kotava
 
+<font size=5>**[Learn Kotava](LearnKotava.md)**</font>
+
+A free wikibook. Click [here](LearnKotava.md) to view.
+
 *Chuff*
 
-v.0.1.1, 01/31/2026
+v.0.1.2, 2/2/26
+
+## Learn Kotava - Contents
+
+0. [Introduction](LKIntroduction.md)
+1. [Sounds](LearnKotava.md#sounds)
+2. [Verbs](LearnKotava.md#verbs)
+3. [Present](LearnKotava.md#present)
+4. [Nouns](LearnKotava.md#nouns)
+5. [Plurals](LearnKotava.md#plurals)
+6. [Past: -y-](LearnKotava.md#past:--y-)
+7. [Future: -t-](LearnKotava.md#future:--t-)
+8. [Motion](LearnKotava.md#motion) 🚧
+9. [Negative](LearnKotava.md#negative)
+10. [Objects](LearnKotava.md#objects)
+11. [Questions](LearnKotava.md#questions) 🚧
+12. [Exclamations](LearnKotava.md#exclamations)
+13. [Affirmation](LearnKotava.md#affirmation)
+14. [Commands](LearnKotava.md#commands)
+15. [Proper Nouns](LearnKotava.md#Proper-Nouns)
+16. [Pronouns](LearnKotava.md#pronouns)
+17. [Prepositions](LearnKotava.md#prepositions)
+18. [Relative Pronouns](LearnKotava.md#relative-pronouns)🚧
+19. [Compound Words](LearnKotava.md#compound-words)
+20. 🚧 More...
 
 ---
 
-## Table of Contents
+# Method of Learning Kotava
 
-##### 0. [Introduction](Introduction.md)
+aka '**MAIK**'
 
-##### 1. [Sounds](Sounds.md)
+*An English edition of [Méthode d'apprentissage illustrée du Kotava (PDF)](https://www.kotava.org/fr/M%C3%A9thode_illustr%C3%A9e_Kotava_v2025.pdf) (2025)*
 
-##### 2. [Verbs](Verbs.md)
-
-##### 3. [Present](Present.md)
-
-##### 4. [Nouns](Nouns.md)
-
-##### x. [Plurals](Plurals.md)
-
-##### x. [Past](Past.md)
-
-##### x. [Future](Future.md)
-
-##### x. [Motion](Motion.md)
-
-##### x. [Negative](Negative.md)
-
-##### x. [Objects](Objects.md)
-
-##### x. [Questions](Questions.md)
-
-##### x. [Exclamations](Exclamations.md)
-
-##### x. [Affirmation](Affirmation.md)
-
-##### x. [Commands](Commands.md)
-
-##### x. [Proper Nouns](ProperNouns.md)
-
-##### x. [Pronouns](Pronouns.md) 
-
-##### x. [Prepositions](Prepositions.md) 🚧
-
-##### x. [...]
-
-##### x. [...]
-
-##### x. [...]
-
-##### x. [Relative Pronouns](RelativePronouns.md) 🚧
-
-##### x. [...]
-
-##### x. [...]
-
-##### x. [Compound Words](CompoundWords.md)
-
-##### x. [...]
-
-##### x. [...]
-
-##### x. [...]
-
-##### x. [...]
+translated by Chuff 2026
 
 ---
 
-# Method of Learning Kotava (MAIK)
-
-*translation of [Méthode d'apprentissage illustrée du Kotava (PDF)](https://www.kotava.org/fr/M%C3%A9thode_illustr%C3%A9e_Kotava_v2025.pdf) (2025)*
-
----
+## MAIK - Contents
 
 ##### 0. [Cover Matter](MAIK0.md)
 

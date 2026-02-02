@@ -4,7 +4,7 @@ prev - [home](README.md) - next
 
 ---
 
-## x. Commands
+## Commands
 
 Verbs can be used for commands -- also called an "imperative" or "injunctive".  These mood particles are used for orders or prohibitions, but also for wishes, desires, or prayers.
 
