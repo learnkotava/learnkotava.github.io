@@ -2,7 +2,7 @@
 
 [home](README.md) - next
 
-## 0. Introduction
+## Introduction
 
 ### What is Kotava?
 

@@ -12,9 +12,9 @@ Like English, many of the Kotava prepositions have a direct opposite: above, bel
 
 Remember that Kotava words are not a 1-to-1 translation with English words, so multiple words with different shades of meaning may be translated as 'for' or 'in', for example.  For that reason, we provide examples for each one.
 
-### x.1. Prepositions of time
+### Prepositions of time
 
-##### x.1.1. Simple prepositions of time
+##### Simple prepositions of time
 
 | Preposition | Translation                                        | Examples                                                     |
 | ----------- | -------------------------------------------------- | ------------------------------------------------------------ |
@@ -30,7 +30,7 @@ Remember that Kotava words are not a 1-to-1 translation with English words, so m
 | **moni**    | towards, by, about (amount of time)                | **- Malipon? - *Moni* riwe miabartiv.**<br />- Been here long? - *'Bout* half an hour. (*[Anna Karenina](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Anna_Karenina_Pak01_Luz03)*)<br /><br />***Moni* 2-eaf bartiv va Marchiennes ayik al mallaniyir.**<br />The man had set out from Marchiennes *about* two o'clock. (*[Germinal](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Germinal_Luz01)*) |
 | **weti**    | ago                                                | ***weti* tanoya decemda**<br />a century *ago*               |
 
-##### x.1.2. Prepositions of time (Opposite pairs)
+##### Prepositions of time (Opposite pairs)
 
 The following time prepositions have 'opposites', shown on the same line:
 
