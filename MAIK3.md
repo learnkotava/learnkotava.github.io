@@ -4,5 +4,5 @@
 
 ## 🚧
 
-## Lesson 3: Building a Sentence
+## Lesson 3. Building a Sentence
 

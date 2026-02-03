@@ -4,5 +4,5 @@
 
 ## 🚧
 
-## Lesson 4: Number, Gender and Euphony
+## Lesson 4. Number, Gender and Euphony
 

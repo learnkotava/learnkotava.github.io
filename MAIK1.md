@@ -2,7 +2,7 @@
 
 [prev](MAIK0.md) - [home](README.md) - [next](MAIK2.md)
 
-## Lesson 1: Pronunciation
+## Lesson 1. Pronunciation
 
 -4-
 
@@ -58,18 +58,18 @@ Kotava has 5 vowels: *a, e, i, o, u*.  All vowels must be pronounced separately 
 
 Find the proper pronunciation of the words and short phrases below.  Pronounce them aloud to get used to the sounds of Kotava.  Check your answers below.
 
-| Kotava Word or Phrase       | Pronunciation in English?<br/>(Choose one)                   | Answer |
-| --------------------------- | ------------------------------------------------------------ | ------ |
-| gijaf                       | A.  zhee-ZHAHF<br/>B.  ghee-ZHAHF<br/>C.  ghee-YAHF          | B      |
-| ko widava vulté             | A.  koh vee-DAH-vah vool-TAY<br/>B.  koh wee-DAH-vah vull-TAY<br/>C.  koh wee-DAH-vah vool-TAY | C      |
-| va coluba estur             | A.  vah koh-LOO-bah ess-TOOR<br/>B.  vah sho-LEE-bah ess-TOOR<br/>C.  vah sho-LOO-bah ess-TOOR | C      |
-| va kabay onac               | A.  vah kah-BUY oh-NOSH<br/>B.  vah kah-BAY oh-NOCK<br/>C.  vah kah-BAY oh-NOCK | A      |
-| Paul is Peter va lupa estud | A.  pahl eess peh-TAYR vah loo-PAH ESS-tood<br/>B.  pahl eess peh-TAYR vah LOO-pah ess-TOOD<br/>C.  powl eess peh-TAYR vah LOO-pah ess-TOOD | B or C |
-| listanyafo dolexo           | A.  lee-stah-NYA-foh doh-LEH-khoh<br/>B.  lee-stah-NYA-foh doh-LEH-roh<br/>C.  lee-stah-NAH-foh doh-LEH-khoh | A      |
-| toklize in vulteyer?        | A.  toh-KLEEZ EEN-neh vool-teh-YEH?<br/>B.  toh-KLEE-zeh een vool-teh-YAIR?<br/>C.  toh-klee-ZEH EEN-neh vool-teh-YAIR? | B      |
-| acum in batlize irubar      | A.  ah-KOOM een baht-LEE-zeh ee-roo-BAR <br/>B.  ah-SHOOM een baht-lee-ZEH ee-roo-BAR<br/>C.  ah-SHOOM een baht-LEE-zeh ee-roo-BAR | C      |
-| vegedujuyuna monaja         | A.  veh-geh-dee-zhoo-yoo-NAH moh-NAH-zhah<br/>B.  veh-geh-doo-zhoo-YOO-nah moh-NAH-zhah<br/>C.  veh-gheh-doo-zhoo-yoo-NAH moh-NAH-zhah | B      |
-| va dositik tcicé            | A.  vah doh-SEE-teek chee-SHAY<br/>B.  vah doh-see-TEEK chee-SHAY<br/>C.  vah doh-see-TEEK shee-SHAY | B      |
+| Kotava Word or Phrase           | Pronunciation in English?<br/>(Choose one)                   | Answer |
+| ------------------------------- | ------------------------------------------------------------ | ------ |
+| **gijaf**                       | A.  zhee-ZHAHF<br/>B.  ghee-ZHAHF<br/>C.  ghee-YAHF          | B      |
+| **ko widava vulté**             | A.  koh vee-DAH-vah vool-TAY<br/>B.  koh wee-DAH-vah vull-TAY<br/>C.  koh wee-DAH-vah vool-TAY | C      |
+| **va coluba estur**             | A.  vah koh-LOO-bah ess-TOOR<br/>B.  vah sho-LEE-bah ess-TOOR<br/>C.  vah sho-LOO-bah ess-TOOR | C      |
+| **va kabay onac**               | A.  vah kah-BUY oh-NOSH<br/>B.  vah kah-BAY oh-NOCK<br/>C.  vah kah-BAY oh-NOCK | A      |
+| **Paul is Peter va lupa estud** | A.  pahl eess peh-TAYR vah loo-PAH ESS-tood<br/>B.  pahl eess peh-TAYR vah LOO-pah ess-TOOD<br/>C.  powl eess peh-TAYR vah LOO-pah ess-TOOD | B or C |
+| **listanyafo dolexo**           | A.  lee-stah-NYA-foh doh-LEH-khoh<br/>B.  lee-stah-NYA-foh doh-LEH-roh<br/>C.  lee-stah-NAH-foh doh-LEH-khoh | A      |
+| **toklize in vulteyer?**        | A.  toh-KLEEZ EEN-neh vool-teh-YEH?<br/>B.  toh-KLEE-zeh een vool-teh-YAIR?<br/>C.  toh-klee-ZEH EEN-neh vool-teh-YAIR? | B      |
+| **acum in batlize irubar**      | A.  ah-KOOM een baht-LEE-zeh ee-roo-BAR <br/>B.  ah-SHOOM een baht-lee-ZEH ee-roo-BAR<br/>C.  ah-SHOOM een baht-LEE-zeh ee-roo-BAR | C      |
+| **vegedujuyuna monaja**         | A.  veh-geh-dee-zhoo-yoo-NAH moh-NAH-zhah<br/>B.  veh-geh-doo-zhoo-YOO-nah moh-NAH-zhah<br/>C.  veh-gheh-doo-zhoo-yoo-NAH moh-NAH-zhah | B      |
+| **va dositik tcicé**            | A.  vah doh-SEE-teek chee-SHAY<br/>B.  vah doh-see-TEEK chee-SHAY<br/>C.  vah doh-see-TEEK shee-SHAY | B      |
 
 > ***Note:*** In Kotava, proper names are transcribed according to how they use the Latin alphabet, without any particular modification or adaptation.
 > 
@@ -89,37 +89,37 @@ Below are the words used in this lesson's exercises.  They include common nouns,
 
 Practice reading them one by one and pronouncing them on your own.
 
-| Kotava Word | Translation                | Type of Word                                                |
-| ----------- | -------------------------- | ----------------------------------------------------------- |
-| mona        | house                      | simple noun                                                 |
-| xefto       | storm                      | simple noun                                                 |
-| widava      | city                       | simple noun                                                 |
-| coluba      | salad                      | simple noun                                                 |
-| kabay       | fish                       | simple noun                                                 |
-| lupa        | cake                       | simple noun                                                 |
-| dolexo      | market                     | noun with suffix (-xo)                                      |
-| dositik     | companion                  | noun with suffix (-ik)                                      |
-| vegedú      | I build                    | 1st person singular present verb                            |
-| danká       | I sing                     | 1st person singular present verb                            |
-| vulté       | I run                      | 1st person singular present verb                            |
-| vulteyer    | he ran                     | 3rd person singular past verb                               |
-| estur       | he eats                    | 3rd person singular present verb                            |
-| estud       | they eat                   | 3rd person plural present verb                              |
-| onac        | you (pl.) fish             | 2nd person plural present verb                              |
-| irubar      | he lives (in), he inhabits | 3rd person singular present verb                            |
-| tcicé       | I help                     | 1st person singular present verb                            |
-| ko          | in                         | locative preposition                                        |
-| va          | -                          | preposition of the object complement (direct object marker) |
-| batcoba     | this                       | demonstrative pronoun                                       |
-| batlize     | here                       | demonstrative adverb                                        |
-| toklize?    | where?                     | interrogative adverb (no motion)                            |
-| in          | he, she                    | 3rd person singular personal pronoun                        |
-| win         | you (pl.)                  | 2nd person plural personal pronoun                          |
-| anyustoy    | eight                      | numeral adjective                                           |
-| tawadayaf   | rural, rustic              | qualitative adjective                                       |
-| gijaf       | big                        | qualitative adjective                                       |
-| listaf      | beautiful                  | qualitative adjective                                       |
-| vegedun     | built                      | passive present participle-adjective                        |
+| Kotava Word   | Translation                | Type of Word                                   |
+| ------------- | -------------------------- | ---------------------------------------------- |
+| **mona**      | house                      | n.                                             |
+| **xefto**     | storm                      | n.                                             |
+| **widava**    | city                       | n.                                             |
+| **coluba**    | salad                      | n.                                             |
+| **kabay**     | fish                       | n.                                             |
+| **lupa**      | cake                       | n.                                             |
+| **dolexo**    | market                     | n. (derived from -**xo**, place of action)     |
+| **dositik**   | companion                  | n. (derived from -**ik**, person with quality) |
+| **vegedú**    | I build                    | 1ps pres. v.                                   |
+| **danká**     | I sing                     | 1ps pres. v.                                   |
+| **vulté**     | I run                      | 1ps pres. v.                                   |
+| **vulteyer**  | he ran                     | 3ps past v.                                    |
+| **estur**     | he eats                    | 3ps pres. v.                                   |
+| **estud**     | they eat                   | 3pp pres. v.                                   |
+| **onac**      | you (pl.) fish             | 2pp pres. v.                                   |
+| **irubar**    | he lives (in), he inhabits | 3ps pres. v.                                   |
+| **tcicé**     | I help                     | 1ps pres. v.                                   |
+| **ko**        | in                         | prep. (loc.)                                   |
+| **va**        | -                          | prep. (obj.)                                   |
+| **batcoba**   | this                       | dem. pron.                                     |
+| **batlize**   | here                       | dem. adv.                                      |
+| **toklize**?  | where?                     | adv. (inter., no motion)                       |
+| **in**        | he, she                    | 3ps pers. pron.                                |
+| **win**       | you (pl.)                  | 2pp pers. pron.                                |
+| **anyustoy**  | eight                      | num. adj.                                      |
+| **tawadayaf** | rural, rustic              | adj.                                           |
+| **gijaf**     | big                        | adj.                                           |
+| **listaf**    | beautiful                  | adj.                                           |
+| **vegedun**   | built                      | passive pres. part. (adj.)                     |
 
 > ***Remember:*** In Kotava, stress always lands on the last closed syllable, that is the last syllable in words ending in a consonant or semi-consonant (*w* or *y*) and the next-to-last syllable in words ending in a vowel.
 > 

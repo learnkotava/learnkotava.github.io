@@ -954,12 +954,16 @@ Remember that Kotava words are not a 1-to-1 translation with English words, so m
 | **bad**     | in (time needed for)                               | ***Bad* mon 26 bartiv gokobayá ta da va kratela mankane divokseyé!**<br />*It took* me about 26 hours of work to extract the juice this way! |
 | **bak**     | during                                             | ***bak* saneaksat**<br />in October<br /><br />***Bak* saneaksat, ara neva va jin tervayar voxen va ikadigiraxo men grupeyé nume va neva tixolon plekuyú ko nevak ke nevaxo.**<br />*In* October, another book encumbered me but I did not know the place of exchange yet so I discreetly put the book in a book bin of a library. |
 | **bal**     | on the occasion of                                 | **Tulon *bal* jora mu Michaël tumtik, va munestiko dilfuyuv sumon, radim venta.**<br />For example, *during* [i.e., on the occasion of] St. Michael's Day, we attacked the dragon in the distance, behind the hill. |
+| **darpe**   | (French) au fur et à mesure de                     |                                                              |
 | **drumi**   | around (short time)                                | *Only example found, as an adverb:*<br /><br />**Adim kristnazbalaviel drumion sokir !**<br />In short, Christmas is almost here! / very near to arrive! |
-| **isti**    | halfway through, in the (exact) middle, mid-       | ***Isti* zivotc in soe ve divmodeyer.**<br />*Halfway through* the storm he woke up anyway / nevertheless. (*[Vunda va Hiro](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Vunda_va_Hiro)*)<br /> |
+| **isti**    | about halfway through, toward the middle of (time) | ***Isti* zivotc in soe ve divmodeyer.**<br />*Halfway through* the storm he woke up anyway / nevertheless. (*[Vunda va Hiro](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Vunda_va_Hiro)*)<br /> |
+| **keni**    | (French) en même temps que                         |                                                              |
 | **keri**    | until, waiting for                                 | **Batlize, kuncanaf, va int mosidad aze ta tilderama *keri* afizara senyad.**<br />(*French*) Là, harassés, ils mirent pied à terre et s’étendirent sur le sol, pour prendre un peu de repos *en attendant* la venue du jour.<br />There, exhausted, they dismounted and lay down on the ground to rest for a while, *waiting for* daybreak. ([*Djémila*](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Djemila)) |
 | **kevi**    | toward, by, very near (very soon), close to (time) | 🚧                                                            |
-| **koi**     | at, at the instant of                              | 🚧                                                            |
-| **moni**    | towards, by, about (amount of time)                | **- Malipon? - *Moni* riwe miabartiv.**<br />- Been here long? - *'Bout* half an hour. (*[Anna Karenina](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Anna_Karenina_Pak01_Luz03)*)<br /><br />***Moni* 2-eaf bartiv va Marchiennes ayik al mallaniyir.**<br />The man had set out from Marchiennes *about* two o'clock. (*[Germinal](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Germinal_Luz01)*) |
+| **koi**     | at, at the instant of                              | ❌ no longer exists as of 2025                                |
+| **moni**    | towards, around (time), by, about (amount of time) | **- Malipon? - *Moni* riwe miabartiv.**<br />- Been here long? - *'Bout* half an hour. (*[Anna Karenina](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Anna_Karenina_Pak01_Luz03)*)<br /><br />***Moni* 2-eaf bartiv va Marchiennes ayik al mallaniyir.**<br />The man had set out from Marchiennes *about* two o'clock. (*[Germinal](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Germinal_Luz01)*) |
+| **sizi**    | halfway through, in the (exact) middle, mid-       | 🚧                                                            |
+| **tori**    | for the duration of, for (length of time)          | 🚧                                                            |
 | **weti**    | ago                                                | ***weti* tanoya decemda**<br />a century *ago*               |
 
 ##### Prepositions of time (Opposite pairs)
@@ -978,14 +982,14 @@ The following time prepositions have 'opposites', shown on the same line:
 | **levi**    | (just) before                           | 🚧                                                            | **moi**     | (just) after                               | 🚧                                                            |
 | **poki**    | not long before                         | 🚧                                                            | **sumi**    | long before (many times ago)               | 🚧                                                            |
 | **teni**    | following                               | 🚧                                                            | **tozi**    | preceding                                  | 🚧                                                            |
-| **tidi**    | at the end of                           | **. . . *tidi* tol-sanoya bora, azavzara : kottan vogadayar ise mibuweyer.**<br />(*French*) . . . *après* avoir fait vingt pas, il fallait s’arrêter: tout le monde jurait et se fâchait.<br />. . . *after* walking twenty paces, they had to stop: everyone was swearing and getting angry. (*[La Chartreuse de Parme](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Xidaxe_ke_Parma_Luz04)*) | **titi**    | at the beginning of                        | 🚧                                                            |
+| **tici**    | at the end of                           | **. . . *tidi* tol-sanoya bora, azavzara : kottan vogadayar ise mibuweyer.**<br />(*French*) . . . *après* avoir fait vingt pas, il fallait s’arrêter: tout le monde jurait et se fâchait.<br />. . . *after* walking twenty paces, they had to stop: everyone was swearing and getting angry. (*[La Chartreuse de Parme](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Xidaxe_ke_Parma_Luz04)*) | **titi**    | at the beginning of                        | 🚧                                                            |
 | **vabdi**   | in the beginning of                     | **Va sakiafa blira bam bokar, *vabdi* klepa wasteson va cavikafa blirinda.**<br />He then begins a bohemian lifestyle, advocating a stylish way of living *in the beginning of* his career. ([Robert Louis Stevenson](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Robert_Louis_Stevenson)) | **vadimi**  | in the end of                              | 🚧                                                            |
 | **vamoi**   | (long) after                            | 🚧                                                            | **valevi**  | (long) before                              | **Efe batcoba sokir, ison *valevi* da ine zinular.**<br />It did so indeed, and much *sooner* than (i.e. very long before) she had expected. (*[Alice's Adventures in Wonderland](https://www.europalingua.eu/bad_wikikrenteem/index.php?title=Stuveem_ke_Alice_koe_Zultaxo_Luz04)*)<br />🚧 |
 | **voki**    | before and after ...                    | **Bat weltik, sintaapik *voki* vudera . . .**<br />These gentlemen, quite honest men *when* they weren't afraid . . .<br /> | **wali**    | between                                    | ***wali* 1939 is 1945**<br />*between* 1939 and 1945         |
 
 ### Prepositions of Location
 
-🚧 Appendix A:3
+🚧 Appendix A:6
 
 ### Other Prepositions
 
@@ -1100,10 +1104,6 @@ You can combine two nouns together, if they have one of the following relationsh
   	➡️ **winkawidava** (provincial town)
 
 * content / partitive (*dem*, i.e. one contains the other)
-
-  galema *dem* lava (glass of water)
-  *[glass] [containing] [water]*
-  	➡️ **lavagalema** (glass of water)
 
 * destination (*tori*, i.e. one is used for another, its "destined use" is the other, think "for", like a vase for flowers or a cup for coffee)
 

@@ -20,7 +20,7 @@ In addition to these books, you can find all kinds of cool material to read in K
 
 # Learn Kotava
 
-<font size=5>**[Learn Kotava](LearnKotava.md)**</font>
+**[Learn Kotava](LearnKotava.md)**
 
 A free wikibook. Click [here](LearnKotava.md) to view.
 
@@ -78,7 +78,7 @@ translated by Chuff 2026
 
 ##### 5. Lesson 5: Persons and Conjugation
 
-##### 6. Lesson 6: Verb Tenses
+##### 6. [Lesson 6: Verb Tenses](MAIK6.md)
 
 ##### 7. Lesson 7: Numbers and Decimals
 
@@ -100,10 +100,10 @@ translated by Chuff 2026
 
 ##### 16: Lesson 16: Verb Mood
 
-##### 17: Lesson 17: Pronominals and Adverbs
+##### **17: Lesson 17: Pronominals and Adverbs**
 
-##### 18: Lesson 18: Verb Voice
+##### **18: Lesson 18: Verb Voice**
 
-##### 19: Lesson 19: Miscellaneous
+##### 19: [Lesson 19: Sundries](MAIK19.md)
 
-##### 20: Lesson 20: Proper Nouns and Classifiers
+##### **20: Lesson 20: Proper Nouns and Classifiers**
